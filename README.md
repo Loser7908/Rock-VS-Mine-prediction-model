@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    
-   git clone https://github.com/your-username/rock-vs-mine-prediction.git
+   git clone https://github.com/Loser7908/rock-vs-mine-prediction.git
 **Navigate to the project directory:**
 
 
